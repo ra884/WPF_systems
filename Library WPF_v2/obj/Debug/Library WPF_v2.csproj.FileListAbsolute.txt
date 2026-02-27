@@ -1,0 +1,31 @@
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\MainWindow.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\SignIn.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\SignUp.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\App.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2_Content.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2_MarkupCompile.cache
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2_MarkupCompile.lref
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\bin\Debug\Library WPF_v2.exe.config
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\bin\Debug\Library WPF_v2.exe
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\bin\Debug\Library WPF_v2.pdb
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\MainWindow.baml
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\SignIn.baml
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\SignUp.baml
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2.g.resources
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library_WPF_v2.Properties.Resources.resources
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library .F3028862.Up2Date
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2.exe
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\Library WPF_v2.pdb
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\book_filter.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\book_filter.baml
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\book_list.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\book_list.baml
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\book_details.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\book_details.baml
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\borrowed_books.g.cs
+C:\Users\hp\source\repos\Library WPF_v2\Library WPF_v2\obj\Debug\borrowed_books.baml
